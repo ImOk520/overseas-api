@@ -1,0 +1,15 @@
+server:
+  port: 6009
+
+spring:
+  application:
+    name: overseas-api
+
+# 业务配置
+website: "http://open.yaochacha365.com/"
+app_key: "kedaxunfei"
+token: "kAwYaW%EjqcNf&M4"
+
+
+
+
